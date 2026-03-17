@@ -13,12 +13,16 @@ tier_rankings = ["HT1", "LT1", "HT2", "LT2", "HT3", "LT3", "HT4", "LT4", "HT5", 
 player_tiers = {}
 
 for player in data:
-    # Use lowercase username for the dictionary key (easier for the mod to find)
-    username_key = player["username"].lower()
-    
+    # --- FIX: Convert UUID from no-dashes to dashes ---
+    # API gives: "bbd9def08d144c6384229c1c36e816cc"
+    # We need:   "bbd9def0-8d14-4c63-8422-9c1c36e816cc"
+    raw_uuid = player["uuid"]
+    formatted_uuid = f"{raw_uuid[0:8]}-{raw_uuid[8:12]}-{raw_uuid[12:16]}-{raw_uuid[16:20]}-{raw_uuid[20:]}"
+    player["uuid_formatted"] = formatted_uuid
+
     # These are the mode keys exactly as they appear in the API
     modes = ["sword_tier", "axe_tier", "pot_tier", "npot_tier", "uhc_tier", "smp_tier", "cpvp_tier", "mace_tier"]
-    
+
     best_index = 999
     best_modes = []
 
@@ -33,14 +37,14 @@ for player in data:
             elif idx == best_index:
                 best_modes.append(m)
 
-    # Add the NEW line to the existing player data
+    # Pick a random mode if tied
     if best_modes:
         player["highest_tier_mode"] = random.choice(best_modes)
     else:
         player["highest_tier_mode"] = None
 
-    # Save the whole player object exactly as it came from the API
-    player_tiers[username_key] = player
+    # Key by formatted UUID (with dashes) instead of username
+    player_tiers[formatted_uuid] = player
 
 # Save to JSON
 with open('tiers.json', 'w') as file:
