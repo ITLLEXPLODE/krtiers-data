@@ -1,0 +1,2592 @@
+{
+    "ne0nd": {
+        "highest": "Combat Ace",
+        "sword": "HT3",
+        "axe": "HT3",
+        "pot": "HT3",
+        "crystal": "HT3",
+        "mace": "HT3",
+        "smp": "HT2",
+        "uhc": "HT3"
+    },
+    "sntp": {
+        "highest": "Combat Specialist",
+        "sword": "LT2",
+        "axe": "LT3",
+        "pot": "LT3",
+        "crystal": "HT3",
+        "mace": "HT3",
+        "smp": "HT3",
+        "uhc": "HT3"
+    },
+    "ted_tnt": {
+        "highest": "Combat Specialist",
+        "sword": "LT3",
+        "axe": "HT3",
+        "pot": "LT3",
+        "crystal": "HT3",
+        "mace": "LT3",
+        "smp": "LT2",
+        "uhc": "HT3"
+    },
+    "onlyyuki": {
+        "highest": "Combat Specialist",
+        "sword": "HT3",
+        "axe": "HT3",
+        "pot": "HT3",
+        "mace": "HT3",
+        "smp": "HT3",
+        "uhc": "HT3"
+    },
+    "fouin": {
+        "highest": "Combat Specialist",
+        "sword": "LT2",
+        "axe": "LT3",
+        "pot": "HT3",
+        "crystal": "HT5",
+        "mace": "LT3",
+        "smp": "LT3",
+        "uhc": "LT3"
+    },
+    "chani829a": {
+        "highest": "Combat Specialist",
+        "sword": "HT4",
+        "axe": "HT3",
+        "pot": "HT3",
+        "mace": "LT4",
+        "smp": "HT3",
+        "uhc": "HT4"
+    },
+    "crepina": {
+        "highest": "Combat Specialist",
+        "sword": "LT5",
+        "axe": "HT3",
+        "pot": "LT5",
+        "crystal": "LT3",
+        "mace": "HT3",
+        "smp": "LT2",
+        "uhc": "HT3"
+    },
+    "delsfox": {
+        "highest": "Combat Specialist",
+        "sword": "HT3",
+        "axe": "LT4",
+        "pot": "LT3",
+        "mace": "LT3",
+        "smp": "LT2",
+        "uhc": "LT3"
+    },
+    "urronaldo": {
+        "highest": "Combat Specialist",
+        "sword": "HT4",
+        "axe": "HT3",
+        "pot": "HT3",
+        "crystal": "HT5",
+        "mace": "HT5",
+        "smp": "HT3",
+        "uhc": "LT3"
+    },
+    "_yoimi": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT4",
+        "pot": "HT3",
+        "mace": "LT3",
+        "smp": "HT3",
+        "uhc": "HT5"
+    },
+    "oveliz": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "HT3",
+        "pot": "LT3",
+        "crystal": "LT4",
+        "smp": "HT3",
+        "uhc": "LT3"
+    },
+    "sogu_1": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "HT3",
+        "pot": "LT3",
+        "crystal": "LT5",
+        "mace": "HT4",
+        "smp": "HT3",
+        "uhc": "LT4"
+    },
+    "i009": {
+        "highest": "Combat Cadet",
+        "sword": "HT3",
+        "axe": "HT3",
+        "pot": "LT3",
+        "crystal": "LT3",
+        "mace": "LT3",
+        "uhc": "HT4"
+    },
+    "junseok40": {
+        "highest": "Combat Cadet",
+        "sword": "LT5",
+        "pot": "LT4",
+        "crystal": "HT2",
+        "smp": "LT3"
+    },
+    "chqnt": {
+        "highest": "Combat Cadet",
+        "axe": "LT2",
+        "smp": "HT3",
+        "uhc": "HT3"
+    },
+    "i_love_maedoo_": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT3",
+        "pot": "HT5",
+        "crystal": "LT5",
+        "mace": "LT3",
+        "smp": "HT3",
+        "uhc": "LT4"
+    },
+    "wpdbr": {
+        "highest": "Combat Cadet",
+        "sword": "LT2",
+        "pot": "LT2"
+    },
+    "mostoldxd": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT4",
+        "pot": "HT3",
+        "smp": "LT3"
+    },
+    "tmvpdltm": {
+        "highest": "Combat Cadet",
+        "sword": "LT5",
+        "axe": "LT3",
+        "mace": "HT3",
+        "smp": "HT3",
+        "uhc": "HT5"
+    },
+    "18yingseng": {
+        "highest": "Combat Cadet",
+        "crystal": "HT2"
+    },
+    "oc_conversant": {
+        "highest": "Combat Cadet",
+        "sword": "HT5",
+        "axe": "HT3",
+        "crystal": "HT4",
+        "mace": "LT3",
+        "uhc": "LT3"
+    },
+    "pinpaz_": {
+        "highest": "Combat Cadet",
+        "sword": "HT2"
+    },
+    "w4pl": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "LT3",
+        "pot": "LT4",
+        "crystal": "LT3",
+        "mace": "LT4",
+        "smp": "HT5",
+        "uhc": "HT4"
+    },
+    "2eee2": {
+        "highest": "Combat Cadet",
+        "axe": "LT4",
+        "crystal": "LT2",
+        "mace": "LT3"
+    },
+    "_kitae_": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "HT4",
+        "pot": "LT3",
+        "crystal": "LT5",
+        "mace": "LT5",
+        "smp": "HT4",
+        "uhc": "LT3"
+    },
+    "_koran": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT4",
+        "pot": "LT3",
+        "smp": "LT4"
+    },
+    "08_yeji": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "LT4",
+        "pot": "HT5",
+        "crystal": "HT5",
+        "mace": "HT5",
+        "smp": "HT3",
+        "uhc": "HT5"
+    },
+    "7ixi": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "LT5",
+        "pot": "LT4",
+        "crystal": "LT2",
+        "uhc": "LT5"
+    },
+    "oawd": {
+        "highest": "Combat Cadet",
+        "sword": "HT5",
+        "axe": "LT3",
+        "mace": "HT3",
+        "smp": "HT3"
+    },
+    "selinaxd1": {
+        "highest": "Combat Cadet",
+        "sword": "HT3",
+        "axe": "LT3",
+        "pot": "LT3",
+        "crystal": "HT5",
+        "uhc": "HT4"
+    },
+    "tjrcks": {
+        "highest": "Combat Cadet",
+        "sword": "HT3",
+        "axe": "HT5",
+        "pot": "LT3",
+        "crystal": "LT3"
+    },
+    "vyxme": {
+        "highest": "Combat Cadet",
+        "sword": "HT4",
+        "axe": "HT4",
+        "pot": "LT3",
+        "crystal": "LT4",
+        "mace": "HT5",
+        "uhc": "HT5"
+    },
+    "320kg": {
+        "highest": "Combat Cadet",
+        "axe": "HT4",
+        "pot": "HT4",
+        "crystal": "LT4",
+        "smp": "LT3",
+        "uhc": "LT4"
+    },
+    "calmdowngirl": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "pot": "HT3"
+    },
+    "mrjinnoyeah": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT4",
+        "pot": "LT4",
+        "crystal": "LT5",
+        "mace": "LT3",
+        "smp": "LT4",
+        "uhc": "LT5"
+    },
+    "harry_dobby": {
+        "highest": "Combat Cadet",
+        "sword": "HT4",
+        "axe": "HT3",
+        "pot": "HT5",
+        "crystal": "LT4",
+        "mace": "HT5",
+        "uhc": "HT4"
+    },
+    "jadeun": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "HT5",
+        "pot": "LT3",
+        "smp": "LT3",
+        "uhc": "LT5"
+    },
+    "sedqnotfound": {
+        "highest": "Combat Cadet",
+        "sword": "HT5",
+        "axe": "HT4",
+        "pot": "HT5",
+        "crystal": "LT3",
+        "smp": "LT3"
+    },
+    "selina_is_my_god": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT4",
+        "crystal": "LT5",
+        "smp": "HT3"
+    },
+    "zxyouu10": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "HT5",
+        "pot": "HT5",
+        "crystal": "HT3",
+        "mace": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "_aloe": {
+        "highest": "Combat Cadet",
+        "sword": "HT3",
+        "axe": "LT4",
+        "pot": "LT3",
+        "smp": "HT5"
+    },
+    "_dazbee": {
+        "highest": "Combat Cadet",
+        "sword": "HT4",
+        "pot": "LT3",
+        "smp": "LT5"
+    },
+    "justrani": {
+        "highest": "Combat Cadet",
+        "crystal": "HT3",
+        "mace": "HT3",
+        "smp": "LT5"
+    },
+    "kht617": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "HT5",
+        "pot": "LT4",
+        "crystal": "LT3",
+        "mace": "LT5",
+        "smp": "LT5",
+        "uhc": "LT4"
+    },
+    "luxury07": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "LT5",
+        "pot": "HT5",
+        "crystal": "HT3",
+        "mace": "LT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "melodiddy": {
+        "highest": "Combat Cadet",
+        "sword": "HT3",
+        "axe": "HT5",
+        "pot": "LT4",
+        "uhc": "LT4"
+    },
+    "philip_a": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "HT3",
+        "pot": "LT4",
+        "uhc": "HT5"
+    },
+    "secondsystem": {
+        "highest": "Combat Cadet",
+        "crystal": "LT2"
+    },
+    "thelaststation": {
+        "highest": "Combat Cadet",
+        "sword": "LT4",
+        "axe": "HT5",
+        "pot": "HT5",
+        "crystal": "LT3",
+        "mace": "LT4",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "altpf": {
+        "highest": "Combat Cadet",
+        "pot": "HT3"
+    },
+    "casix101": {
+        "highest": "Combat Cadet"
+    },
+    "highlight_": {
+        "highest": "Combat Cadet",
+        "sword": "LT3",
+        "axe": "LT3",
+        "pot": "HT5",
+        "smp": "LT4",
+        "uhc": "HT5"
+    },
+    "plon_": {
+        "highest": "Combat Cadet",
+        "pot": "HT3"
+    },
+    "venom11_": {
+        "highest": "Combat Cadet",
+        "crystal": "LT2"
+    },
+    "below_spe1370": {
+        "highest": "Combat Novice",
+        "sword": "HT4",
+        "pot": "LT3",
+        "crystal": "LT5",
+        "smp": "HT5"
+    },
+    "fxia": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "pot": "LT3"
+    },
+    "tornrosee": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "axe": "LT4",
+        "pot": "HT4"
+    },
+    "_de0kbae": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT4",
+        "pot": "HT5",
+        "mace": "LT3",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "kaguyah_": {
+        "highest": "Combat Novice",
+        "sword": "HT4",
+        "pot": "LT3",
+        "mace": "HT5"
+    },
+    "onlysexy": {
+        "highest": "Combat Novice",
+        "sword": "HT3",
+        "pot": "LT3"
+    },
+    "gimoziii": {
+        "highest": "Combat Novice",
+        "sword": "HT4",
+        "pot": "HT3",
+        "uhc": "LT4"
+    },
+    "humphrey_pino": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT4",
+        "pot": "LT4",
+        "crystal": "LT5",
+        "smp": "HT5",
+        "uhc": "HT5"
+    },
+    "mcseoma": {
+        "highest": "Combat Novice",
+        "sword": "LT3"
+    },
+    "sedq": {
+        "highest": "Combat Novice",
+        "pot": "LT3",
+        "smp": "LT3"
+    },
+    "silver_head_": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "mace": "HT3"
+    },
+    "unpice_": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "pot": "LT4",
+        "crystal": "HT3"
+    },
+    "zkoc": {
+        "highest": "Combat Novice",
+        "sword": "HT3",
+        "pot": "LT3"
+    },
+    "gentlemen4281": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "HT5",
+        "pot": "LT5",
+        "crystal": "HT5",
+        "smp": "HT5",
+        "uhc": "HT4"
+    },
+    "imnotstory": {
+        "highest": "Combat Novice",
+        "sword": "HT3",
+        "pot": "LT4",
+        "mace": "HT5"
+    },
+    "k1ngd3fal1t": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "axe": "LT5",
+        "pot": "HT5",
+        "crystal": "HT3"
+    },
+    "cxjn": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "axe": "LT3",
+        "pot": "LT4"
+    },
+    "kiwi_is_spicy": {
+        "highest": "Combat Novice",
+        "axe": "HT4",
+        "mace": "HT3"
+    },
+    "s_var": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "crystal": "LT3",
+        "mace": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "ccou": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "axe": "LT4",
+        "pot": "LT5",
+        "uhc": "HT5"
+    },
+    "gunkioo": {
+        "highest": "Combat Novice",
+        "sword": "HT4",
+        "axe": "LT4",
+        "pot": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "imduck__": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "axe": "HT5",
+        "pot": "LT5",
+        "crystal": "LT4",
+        "uhc": "HT5"
+    },
+    "k0reanbesthack": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "crystal": "HT3",
+        "mace": "LT5"
+    },
+    "magplun": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "crystal": "HT3"
+    },
+    "r_davin": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "axe": "LT3",
+        "pot": "LT4",
+        "mace": "LT5"
+    },
+    "silbi__": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "HT5",
+        "pot": "LT4",
+        "mace": "LT5",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "ttaemin": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT4",
+        "crystal": "LT3",
+        "smp": "HT5"
+    },
+    "amsak_is_my_goat": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT4",
+        "crystal": "LT5",
+        "mace": "LT4",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "feeling_of_god": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "crystal": "HT3"
+    },
+    "imprim": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "crystal": "HT3"
+    },
+    "maneule": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "axe": "HT5",
+        "pot": "HT5",
+        "smp": "LT5",
+        "uhc": "HT4"
+    },
+    "tteyip": {
+        "highest": "Combat Novice",
+        "crystal": "LT3",
+        "uhc": "LT3"
+    },
+    "_fantakill_": {
+        "highest": "Combat Novice",
+        "crystal": "HT3",
+        "mace": "LT5"
+    },
+    "1mwn": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "axe": "HT5",
+        "pot": "HT5",
+        "uhc": "HT5"
+    },
+    "ay_bxno2": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "crystal": "HT3"
+    },
+    "butteredabalone": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "crystal": "HT3"
+    },
+    "craft_homework": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "crystal": "HT3"
+    },
+    "crystalp0p": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "LT3",
+        "mace": "LT5",
+        "uhc": "LT5"
+    },
+    "iam_roblox_hack": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "crystal": "HT3"
+    },
+    "lateve": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "axe": "LT4",
+        "pot": "LT4",
+        "uhc": "HT5"
+    },
+    "nick120620": {
+        "highest": "Combat Novice",
+        "mace": "LT3",
+        "smp": "LT4",
+        "uhc": "HT5"
+    },
+    "seongwon_11": {
+        "highest": "Combat Novice",
+        "sword": "LT5",
+        "crystal": "HT3"
+    },
+    "skyawy": {
+        "highest": "Combat Novice",
+        "axe": "LT4",
+        "pot": "HT5",
+        "crystal": "LT5",
+        "smp": "HT5",
+        "uhc": "LT5"
+    },
+    "vasuro": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "pot": "HT4",
+        "uhc": "LT5"
+    },
+    "2tapmachine": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "altaccount128": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "antiscope": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "pot": "HT4"
+    },
+    "aorvl": {
+        "highest": "Combat Novice",
+        "sword": "HT4",
+        "crystal": "LT3"
+    },
+    "batboy42531": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "bbungbbangddiii": {
+        "highest": "Combat Novice",
+        "axe": "HT3"
+    },
+    "bldsv_avocado": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "LT3",
+        "uhc": "LT5"
+    },
+    "craft_goa": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "day_bema11": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "diraso_ic": {
+        "highest": "Combat Novice",
+        "pot": "HT3"
+    },
+    "englandian": {
+        "highest": "Combat Novice"
+    },
+    "gongbu_2_day": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "hack_palyer": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "i_love_hyo": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "pot": "LT5"
+    },
+    "isantep": {
+        "highest": "Combat Novice",
+        "sword": "HT3"
+    },
+    "kashan1122": {
+        "highest": "Combat Novice",
+        "axe": "HT4",
+        "crystal": "LT5",
+        "mace": "HT5",
+        "smp": "HT5",
+        "uhc": "LT5"
+    },
+    "kesux": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "koreanbesthac0k": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "lolka_aaa": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "lord_eagle_": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "pot": "HT4"
+    },
+    "mornel_": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "my_love_jlheon": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "nighth12345": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "crystal": "HT4"
+    },
+    "nightxsun": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "nowimyoung_": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "oc_x1mpie": {
+        "highest": "Combat Novice",
+        "sword": "LT4",
+        "pot": "LT5",
+        "uhc": "LT4"
+    },
+    "p_ch_y": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "piccrit": {
+        "highest": "Combat Novice",
+        "sword": "LT3",
+        "axe": "LT4",
+        "uhc": "LT5"
+    },
+    "pico_z": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "pkdz": {
+        "highest": "Combat Novice",
+        "sword": "HT3"
+    },
+    "saymals": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "smooth2tap_ht3": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "the_na1me": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "tny_": {
+        "highest": "Combat Novice",
+        "sword": "HT3"
+    },
+    "tomatho": {
+        "highest": "Combat Novice",
+        "pot": "HT4"
+    },
+    "uwubabykltten": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "vahse": {
+        "highest": "Combat Novice",
+        "sword": "HT3"
+    },
+    "validhash": {
+        "highest": "Combat Novice",
+        "sword": "HT3"
+    },
+    "voidoverworld": {
+        "highest": "Combat Novice",
+        "crystal": "HT3"
+    },
+    "yam1nabe": {
+        "highest": "Combat Novice",
+        "sword": "HT5",
+        "axe": "LT5",
+        "pot": "LT4",
+        "mace": "LT4"
+    },
+    "_4pril": {
+        "highest": "Rookie",
+        "crystal": "LT3",
+        "mace": "LT4"
+    },
+    "frock__lover": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "crystal": "LT5",
+        "mace": "LT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "idarkcecil": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "pot": "LT5",
+        "crystal": "LT5",
+        "mace": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "minse_0": {
+        "highest": "Rookie",
+        "sword": "HT4",
+        "pot": "HT4"
+    },
+    "ngcunut": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "LT3"
+    },
+    "s2x_hagosipda": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "crystal": "LT4",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "snymemo": {
+        "highest": "Rookie",
+        "axe": "LT4",
+        "uhc": "LT3"
+    },
+    "2odi": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5",
+        "pot": "LT4"
+    },
+    "des_tabby": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT4",
+        "uhc": "HT5"
+    },
+    "dreamwithu": {
+        "highest": "Rookie",
+        "pot": "HT5",
+        "crystal": "LT3"
+    },
+    "goatedinhohni1": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5",
+        "pot": "LT5",
+        "mace": "HT5",
+        "uhc": "LT5"
+    },
+    "iloveyoumandu77": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "pot": "HT5",
+        "smp": "LT5"
+    },
+    "imgno": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT4",
+        "uhc": "HT5"
+    },
+    "imnotswight": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "HT5",
+        "pot": "LT5",
+        "crystal": "LT5",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "jbdh": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "HT4"
+    },
+    "kimpackchoisieun": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "HT5",
+        "pot": "LT5",
+        "crystal": "LT5",
+        "smp": "LT5"
+    },
+    "komq_123": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "crystal": "LT3"
+    },
+    "laterlatarlater": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "crystal": "LT3"
+    },
+    "league_123": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "crystal": "HT4",
+        "mace": "HT5"
+    },
+    "mango9486": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "HT5",
+        "pot": "LT5",
+        "crystal": "LT5",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "mcdictionary": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "mace": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "pinotrue": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "LT5",
+        "mace": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "pqr1k": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "crystal": "LT3"
+    },
+    "top_toon": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "HT5",
+        "crystal": "LT5"
+    },
+    "wowbab": {
+        "highest": "Rookie",
+        "axe": "HT5",
+        "crystal": "LT3"
+    },
+    "xxxtdntaclon": {
+        "highest": "Rookie",
+        "pot": "LT5",
+        "crystal": "LT3",
+        "uhc": "LT5"
+    },
+    "_backji": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "HT5",
+        "crystal": "LT5",
+        "uhc": "LT5"
+    },
+    "_grubby_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT4",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "_i_v_e_": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "crystal": "HT5"
+    },
+    "_itzluna_": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "uhc": "HT5"
+    },
+    "2nvy_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "mace": "LT3"
+    },
+    "ash_syotakon": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "LT3"
+    },
+    "ay_bxno1": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "HT4",
+        "mace": "LT5",
+        "smp": "LT5"
+    },
+    "ay_bxno69": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "LT3"
+    },
+    "cusu_cusu": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT4",
+        "crystal": "LT5"
+    },
+    "flyscorpion5028": {
+        "highest": "Rookie",
+        "sword": "LT3",
+        "axe": "LT5"
+    },
+    "frock_1": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5",
+        "pot": "LT5",
+        "uhc": "HT5"
+    },
+    "im_not_troll": {
+        "highest": "Rookie",
+        "sword": "HT4",
+        "pot": "HT5",
+        "uhc": "LT5"
+    },
+    "itzkingstyx": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "LT3"
+    },
+    "king_of_jeolla1": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "LT3"
+    },
+    "kjjjnj": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "LT5",
+        "mace": "LT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "lgon": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "HT5"
+    },
+    "njz_super_shy": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "HT5",
+        "mace": "LT5",
+        "uhc": "LT5"
+    },
+    "of_u": {
+        "highest": "Rookie",
+        "mace": "LT3",
+        "smp": "LT5"
+    },
+    "on_s": {
+        "highest": "Rookie",
+        "sword": "HT4",
+        "pot": "LT4"
+    },
+    "projammin22": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT5",
+        "pot": "LT5",
+        "uhc": "LT5"
+    },
+    "s2c0nd": {
+        "highest": "Rookie",
+        "crystal": "LT3",
+        "uhc": "LT5"
+    },
+    "streamtrue": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "HT5",
+        "uhc": "HT5"
+    },
+    "venhit": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "HT4",
+        "uhc": "HT5"
+    },
+    "_krh": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "_merry_neko": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "_seohyeon": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "1st_turtle11": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "2sce_": {
+        "highest": "Rookie",
+        "sword": "LT3"
+    },
+    "ar0h": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "arbiax": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "b3sth4ckussr10": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "crystal": "HT4"
+    },
+    "bestmcplayer6974": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "changmace": {
+        "highest": "Rookie",
+        "mace": "LT3"
+    },
+    "cioversonic": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "cpvp_montage": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "cpvpuser": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "craft_mtkn": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "cs_wonny": {
+        "highest": "Rookie",
+        "axe": "HT5",
+        "mace": "HT4"
+    },
+    "demonkingjungwoo": {
+        "highest": "Rookie",
+        "sword": "LT3"
+    },
+    "dhoya": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "doctorhoo1": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "douglas5243": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "pot": "LT5",
+        "crystal": "LT5",
+        "mace": "LT5"
+    },
+    "eqdkz": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "mace": "LT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "euha_": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT4"
+    },
+    "f1eurs": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "forwin10": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "pot": "LT4"
+    },
+    "ggondaehee": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "gxezs": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "hayun4070": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "heartl0ve": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "hit_kira": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "hit3_dexon1": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "jeongseok24": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "karmez_": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "khangtorimook": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT5",
+        "uhc": "HT5"
+    },
+    "killyoonho": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "kimsangjoon0209": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "kind_boy_cyw": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "lamine_yamal10": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "lolamxl55483": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "mandu77_77": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT4"
+    },
+    "marl0wx": {
+        "highest": "Rookie",
+        "axe": "LT4",
+        "pot": "HT5",
+        "mace": "LT5"
+    },
+    "mbc_4street": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "minsu_wife": {
+        "highest": "Rookie",
+        "sword": "HT4",
+        "pot": "LT5"
+    },
+    "mkomko11280": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "monstrum_marinum": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "LT4"
+    },
+    "n4ngman_": {
+        "highest": "Rookie",
+        "sword": "LT3"
+    },
+    "nemoaaomen": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5",
+        "pot": "HT5"
+    },
+    "oktll": {
+        "highest": "Rookie",
+        "smp": "LT3"
+    },
+    "pakvz": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "park120822": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "player2531": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5",
+        "uhc": "HT5"
+    },
+    "pqrrotz_": {
+        "highest": "Rookie",
+        "sword": "LT3"
+    },
+    "pukink": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "rimprincess_no_m": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "rooyo": {
+        "highest": "Rookie",
+        "sword": "LT3"
+    },
+    "ryu_rai": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "s3owmen": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "sct_exotic": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "sejinspecial": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "seritxn": {
+        "highest": "Rookie",
+        "uhc": "LT3"
+    },
+    "shad0wcombo": {
+        "highest": "Rookie",
+        "sword": "LT3"
+    },
+    "shim_han_byeol": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "smooth2tap_ht1": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "soeulkim": {
+        "highest": "Rookie",
+        "crystal": "HT4",
+        "mace": "HT5"
+    },
+    "soul_673wt": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "spicy_jin_ramen": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "suify": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "taehxn_": {
+        "highest": "Rookie",
+        "mace": "LT3"
+    },
+    "tlsghdud": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5",
+        "crystal": "LT4"
+    },
+    "tvum": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "uixr": {
+        "highest": "Rookie",
+        "pot": "LT3"
+    },
+    "voiddragx": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "window_good": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "winter100607": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "yeon_q": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "youno123": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "zpdalf": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "zugem_": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "zzelgamler": {
+        "highest": "Rookie",
+        "crystal": "LT3"
+    },
+    "_just_dragon_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "pot": "LT5",
+        "mace": "LT4"
+    },
+    "_raba_": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "LT4"
+    },
+    "afterihu": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "HT5",
+        "uhc": "LT5"
+    },
+    "belillyum": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "dsvaedvjadsvoozc": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "mace": "HT4"
+    },
+    "euha_is_my_goat": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "HT5"
+    },
+    "gmvoke": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "crystal": "HT5",
+        "uhc": "LT5"
+    },
+    "hit_love": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "crystal": "LT4",
+        "uhc": "LT5"
+    },
+    "hit_vanta": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "uhc": "LT5"
+    },
+    "jin_346": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5",
+        "smp": "LT5"
+    },
+    "juneng51": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "pot": "LT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "kellse": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "HT5",
+        "pot": "HT5"
+    },
+    "lg_chatbot": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "crystal": "LT4"
+    },
+    "mincha2": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "HT5"
+    },
+    "namedstar": {
+        "highest": "Rookie",
+        "sword": "HT4",
+        "pot": "LT5"
+    },
+    "obsyd_": {
+        "highest": "Rookie",
+        "sword": "LT4",
+        "axe": "HT5"
+    },
+    "seungmin5680": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "HT4"
+    },
+    "uolz": {
+        "highest": "Rookie",
+        "sword": "HT4",
+        "uhc": "LT5"
+    },
+    "wel2_": {
+        "highest": "Rookie",
+        "axe": "HT5",
+        "crystal": "LT5",
+        "uhc": "HT5"
+    },
+    "yuchaehwa": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "zenduck_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "HT4"
+    },
+    "____coc0nut____": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "_isd_jururu": {
+        "highest": "Rookie",
+        "pot": "HT4"
+    },
+    "_junhyun_": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "_matsu_02": {
+        "highest": "Rookie",
+        "sword": "HT4"
+    },
+    "_pesta1_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "pot": "LT5"
+    },
+    "00_n": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "LT5",
+        "uhc": "LT5"
+    },
+    "chillingivy": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "choi_luna": {
+        "highest": "Rookie",
+        "sword": "HT4"
+    },
+    "chugje": {
+        "highest": "Rookie",
+        "smp": "LT5"
+    },
+    "chungjuman": {
+        "highest": "Rookie",
+        "pot": "HT4"
+    },
+    "cony2642": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "mace": "LT5"
+    },
+    "d1ivg": {
+        "highest": "Rookie",
+        "sword": "HT4"
+    },
+    "demonkingminjun": {
+        "highest": "Rookie",
+        "pot": "HT4"
+    },
+    "galaxybrothers": {
+        "highest": "Rookie",
+        "axe": "HT5",
+        "uhc": "HT5"
+    },
+    "ghkoh": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "crystal": "HT5"
+    },
+    "gi1dong": {
+        "highest": "Rookie",
+        "sword": "HT4"
+    },
+    "haedxm": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "LT4"
+    },
+    "iiexn": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "init0628": {
+        "highest": "Rookie",
+        "axe": "HT4"
+    },
+    "lch0119": {
+        "highest": "Rookie",
+        "sword": "HT4"
+    },
+    "leegw_0120": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "mace": "LT5"
+    },
+    "leerina": {
+        "highest": "Rookie",
+        "pot": "HT4"
+    },
+    "lie_pan": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "HT5",
+        "smp": "LT5"
+    },
+    "lmitachiuchiha": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "lungeiii": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "new_rasputin": {
+        "highest": "Rookie",
+        "crystal": "HT5",
+        "uhc": "HT5"
+    },
+    "oc_young_go": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "orange5lime": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "ragd0l1": {
+        "highest": "Rookie",
+        "mace": "HT4"
+    },
+    "udnx": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "HT5"
+    },
+    "yahoyaho": {
+        "highest": "Rookie",
+        "pot": "HT4"
+    },
+    "yesimbutter": {
+        "highest": "Rookie",
+        "smp": "LT5",
+        "uhc": "HT5"
+    },
+    "yeyubi": {
+        "highest": "Rookie",
+        "crystal": "HT4"
+    },
+    "__hitbox__": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "_akuo_": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "LT5"
+    },
+    "_blacknut": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "_heee": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "_uracil": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "adqu": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "applepi2": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "uhc": "LT5"
+    },
+    "ay_bxno3": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "benwhiteker": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "c0l0rcat": {
+        "highest": "Rookie",
+        "axe": "LT4"
+    },
+    "c0nf1u_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "HT5"
+    },
+    "cherryxn": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "d1ezs": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "uhc": "LT5"
+    },
+    "dealman": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "des_s2cond": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "uhc": "HT5"
+    },
+    "dhzlehzlskdlzl": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "eqmflflgrbs": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "eun8": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "uhc": "LT5"
+    },
+    "eunholaon": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "fastestanchor": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "forwin": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "gimoziiii": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "gom": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "haeke_": {
+        "highest": "Rookie",
+        "uhc": "LT4"
+    },
+    "handwind": {
+        "highest": "Rookie",
+        "axe": "LT4"
+    },
+    "hi11yy": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "uhc": "LT5"
+    },
+    "hit_hamei": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "hyun783": {
+        "highest": "Rookie",
+        "axe": "LT4"
+    },
+    "i_l0ve_maedoo__": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "smp": "LT5"
+    },
+    "justnimic": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "kimbap06": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "kjh331": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "luzisi": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "lzpe": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5",
+        "crystal": "LT5"
+    },
+    "mjaywalk": {
+        "highest": "Rookie",
+        "uhc": "LT4"
+    },
+    "munbokhee": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "naganubodassa": {
+        "highest": "Rookie",
+        "axe": "LT4"
+    },
+    "nanabag": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "nomalc0414": {
+        "highest": "Rookie",
+        "mace": "LT4"
+    },
+    "p_kyte": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "ramagod": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "pot": "LT5"
+    },
+    "raynowing_": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "real__jett": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "HT5"
+    },
+    "rf_horam": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "roxyflora": {
+        "highest": "Rookie",
+        "sword": "HT5",
+        "axe": "LT5"
+    },
+    "s_ura": {
+        "highest": "Rookie",
+        "axe": "LT4"
+    },
+    "sexyssammu": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "shapter": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "slow_crystal": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "songha0": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "tmsl12": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "crystal": "LT5",
+        "mace": "LT5"
+    },
+    "tord_td": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "uhc": "HT5"
+    },
+    "uodx": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "v4ntyr_z": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "whoswhatsupprayw": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "wind_s123": {
+        "highest": "Rookie",
+        "crystal": "LT4"
+    },
+    "wudirandan": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "x5d": {
+        "highest": "Rookie",
+        "pot": "LT4"
+    },
+    "ys0428": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "yuuk2": {
+        "highest": "Rookie",
+        "axe": "LT4"
+    },
+    "z1x2c3v4b5n6m7": {
+        "highest": "Rookie",
+        "sword": "LT4"
+    },
+    "___156032": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "_conut": {
+        "highest": "Rookie",
+        "uhc": "HT5"
+    },
+    "_secretv1": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "2734": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "2vs1crack": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "ahyvn": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "akdong_": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "uhc": "LT5"
+    },
+    "am252": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "arena76": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5"
+    },
+    "battydragoon150": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "belnthestory_": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "brakio_saurus": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "c7jn": {
+        "highest": "Rookie",
+        "smp": "HT5"
+    },
+    "catkiller_9999": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "chihuahua_12": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "const990": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "crack_on_tv": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "ddotty_stalker": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "des_yeoul": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "hanjunhyun": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "ho__0__e": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "hunybuterchips_": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "imxenon_": {
+        "highest": "Rookie",
+        "axe": "HT5"
+    },
+    "itzdl": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "jungmojung": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "pot": "LT5"
+    },
+    "kain0123": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "kellk": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "khaki_coco": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "kherson": {
+        "highest": "Rookie",
+        "mace": "LT5",
+        "uhc": "LT5"
+    },
+    "kickthis": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "kingody": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "kitarine": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "korea_ht1": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "ktdk": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "pot": "LT5"
+    },
+    "lonamc": {
+        "highest": "Rookie",
+        "smp": "LT5",
+        "uhc": "LT5"
+    },
+    "lu2ent": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "m1lk0y": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "mace": "LT5"
+    },
+    "my0918": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "nomino1364": {
+        "highest": "Rookie",
+        "axe": "LT5",
+        "mace": "LT5"
+    },
+    "pico_dengdo": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "uhc": "LT5"
+    },
+    "pillow77": {
+        "highest": "Rookie",
+        "uhc": "HT5"
+    },
+    "privase": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "pys1227": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "pz1_": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "qkrrjs123": {
+        "highest": "Rookie",
+        "mace": "HT5"
+    },
+    "rtz_happy_cat": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5"
+    },
+    "s_hoky": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "s2mini": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "pot": "LT5"
+    },
+    "s2owon": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "sanriokorea": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "snowflake_vlrt": {
+        "highest": "Rookie",
+        "uhc": "HT5"
+    },
+    "snowsugar": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "socre": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "susu515_yt": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "sx_eun": {
+        "highest": "Rookie",
+        "pot": "HT5"
+    },
+    "temet1": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "uddii_": {
+        "highest": "Rookie",
+        "crystal": "HT5"
+    },
+    "unsentletters": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "useung_": {
+        "highest": "Rookie",
+        "sword": "HT5"
+    },
+    "xe_9": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "crystal": "LT5"
+    },
+    "xiaolenn": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "yaeyaey": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "smp": "LT5"
+    },
+    "yoongongju": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "axe": "LT5"
+    },
+    "yurnox0": {
+        "highest": "Rookie",
+        "sword": "LT5",
+        "uhc": "LT5"
+    },
+    "______white_____": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "0injr": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "0nqa": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "29ka": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "adqk": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "ai_hoshino": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "algamja11": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "asphalt13": {
+        "highest": "Rookie",
+        "uhc": "LT5"
+    },
+    "baromooyazing": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "cometsung": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "craft_e1z_kaka": {
+        "highest": "Rookie",
+        "mace": "LT5"
+    },
+    "davidseojun0613": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "demonkingminjae": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "dk_asoking": {
+        "highest": "Rookie",
+        "uhc": "LT5"
+    },
+    "dreadful1230": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "eommattongkko": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "f2ag": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "gj_504b": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "glo_t": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "henry0401": {
+        "highest": "Rookie",
+        "smp": "LT5"
+    },
+    "hi11y": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "huyn_0": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "hveonuk": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "hypocrix": {
+        "highest": "Rookie",
+        "uhc": "LT5"
+    },
+    "imnotwalker": {
+        "highest": "Rookie",
+        "uhc": "LT5"
+    },
+    "jangminseok12": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "justpigjump1234": {
+        "highest": "Rookie",
+        "mace": "LT5"
+    },
+    "kchmine": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "kirameku_hana": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "kr_hehe": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "laterlaterlater": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "lt3_shibuki": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "lunarix_kr": {
+        "highest": "Rookie",
+        "mace": "LT5"
+    },
+    "m1111111e": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "mad10bird": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "minto_0": {
+        "highest": "Rookie",
+        "uhc": "LT5"
+    },
+    "mnmmnnnm": {
+        "highest": "Rookie",
+        "pot": "LT5"
+    },
+    "monosixkid": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "mylove_jiheon": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "noname_kr": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "nurungji_goat": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "oa2e1": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "oc_justforian": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "oeeeo": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "os1ck": {
+        "highest": "Rookie",
+        "mace": "LT5"
+    },
+    "packtoole": {
+        "highest": "Rookie",
+        "pot": "LT5"
+    },
+    "parknoob10": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "peter131207": {
+        "highest": "Rookie",
+        "uhc": "LT5"
+    },
+    "pig_uuuuuk8385": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "pjwelsa": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "pororo_bosintang": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "pr3es": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "pretty_heart": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "rlver_75": {
+        "highest": "Rookie",
+        "pot": "LT5"
+    },
+    "rover71": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "skull_food": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "sunuwoo": {
+        "highest": "Rookie",
+        "axe": "LT5"
+    },
+    "tnt_tht": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "ueond": {
+        "highest": "Rookie",
+        "pot": "LT5"
+    },
+    "voltv": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "wueuowl": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "wwithh": {
+        "highest": "Rookie",
+        "mace": "LT5"
+    },
+    "yusc0909": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    },
+    "zkarrt": {
+        "highest": "Rookie",
+        "crystal": "LT5"
+    },
+    "ztlhq_10": {
+        "highest": "Rookie",
+        "sword": "LT5"
+    }
+}
