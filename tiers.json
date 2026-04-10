@@ -16,7 +16,7 @@
         "combat_tier": "Combat Ace",
         "combat_tier_korean": "\ub2e4\uc774\uc544\ubaac\ub4dc",
         "uuid_formatted": "9e8f3781-85f5-45d9-8cca-e7219b5281ce",
-        "highest_tier_mode": "mace_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "bbd9def0-8d14-4c63-8422-9c1c36e816cc": {
         "uuid": "bbd9def08d144c6384229c1c36e816cc",
@@ -73,7 +73,7 @@
         "combat_tier": "Combat Specialist",
         "combat_tier_korean": "\ud50c\ub798\ud2f0\ub118",
         "uuid_formatted": "833f97d3-4652-487b-b05a-630d63922a02",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "5c0105e6-3b51-4a44-b079-f067b7972c4a": {
         "uuid": "5c0105e63b514a44b079f067b7972c4a",
@@ -92,7 +92,7 @@
         "combat_tier": "Combat Specialist",
         "combat_tier_korean": "\ud50c\ub798\ud2f0\ub118",
         "uuid_formatted": "5c0105e6-3b51-4a44-b079-f067b7972c4a",
-        "highest_tier_mode": "uhc_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "b3854843-2ec8-4181-be5a-93c2899dd63a": {
         "uuid": "b38548432ec84181be5a93c2899dd63a",
@@ -149,7 +149,7 @@
         "combat_tier": "Combat Specialist",
         "combat_tier_korean": "\ud50c\ub798\ud2f0\ub118",
         "uuid_formatted": "b3dcb351-561e-4ae7-92eb-b082abf0f28a",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "uhc_tier"
     },
     "33f3df0d-32a0-4d12-8ec7-2f63acff6eab": {
         "uuid": "33f3df0d32a04d128ec72f63acff6eab",
@@ -206,7 +206,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "4e28a712-a31c-44be-9aa5-772436ac3c73",
-        "highest_tier_mode": "mace_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "995ff38c-f5eb-4527-af3c-05c61221dfa5": {
         "uuid": "995ff38cf5eb4527af3c05c61221dfa5",
@@ -225,7 +225,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "995ff38c-f5eb-4527-af3c-05c61221dfa5",
-        "highest_tier_mode": "pot_tier"
+        "highest_tier_mode": "mace_tier"
     },
     "02da8b10-fa17-4092-bb93-9bbacb901acf": {
         "uuid": "02da8b10fa174092bb939bbacb901acf",
@@ -244,7 +244,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "02da8b10-fa17-4092-bb93-9bbacb901acf",
-        "highest_tier_mode": "smp_tier"
+        "highest_tier_mode": "npot_tier"
     },
     "5cbeb50e-4f3e-493a-b3bb-fba83b592c05": {
         "uuid": "5cbeb50e4f3e493ab3bbfba83b592c05",
@@ -263,7 +263,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "5cbeb50e-4f3e-493a-b3bb-fba83b592c05",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "bb7dc269-2566-40fe-b378-cae72b63d61e": {
         "uuid": "bb7dc269256640feb378cae72b63d61e",
@@ -358,7 +358,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "0475c54e-799c-4bea-878a-1cbe8e30b7f6",
-        "highest_tier_mode": "npot_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "05c4bdf9-fa1a-4cd3-9624-58f36a889328": {
         "uuid": "05c4bdf9fa1a4cd3962458f36a889328",
@@ -377,7 +377,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "05c4bdf9-fa1a-4cd3-9624-58f36a889328",
-        "highest_tier_mode": "npot_tier"
+        "highest_tier_mode": "cpvp_tier"
     },
     "9d443e4b-9d6e-429d-8414-9b7162a5ee1a": {
         "uuid": "9d443e4b9d6e429d84149b7162a5ee1a",
@@ -453,7 +453,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "13e9ea3d-c90d-424d-90be-7ba4363e4ce8",
-        "highest_tier_mode": "smp_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "355f5795-3832-4b0f-a18b-ea604d51f15d": {
         "uuid": "355f579538324b0fa18bea604d51f15d",
@@ -472,7 +472,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "355f5795-3832-4b0f-a18b-ea604d51f15d",
-        "highest_tier_mode": "uhc_tier"
+        "highest_tier_mode": "mace_tier"
     },
     "9a498e2e-030a-46d8-ba71-23a89eab13d2": {
         "uuid": "9a498e2e030a46d8ba7123a89eab13d2",
@@ -491,7 +491,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "9a498e2e-030a-46d8-ba71-23a89eab13d2",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "e9e4a6ce-2aa8-458d-b79f-b14cc093baf5": {
         "uuid": "e9e4a6ce2aa8458db79fb14cc093baf5",
@@ -529,7 +529,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "8f36260f-7339-4278-b302-729a01dade98",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "cpvp_tier"
     },
     "93549111-818d-437d-ac39-2c3b7d84ad56": {
         "uuid": "93549111818d437dac392c3b7d84ad56",
@@ -700,7 +700,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "d85160cc-99a7-4afc-817f-0776da99157a",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "0300c099-44d7-4361-ae3c-5e3d3b4f4595": {
         "uuid": "0300c09944d74361ae3c5e3d3b4f4595",
@@ -795,7 +795,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "e5beb857-4715-4a9a-92eb-9a934afdc644",
-        "highest_tier_mode": "mace_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "33c18a13-b4d4-49e5-af0f-2661daf7a0e5": {
         "uuid": "33c18a13b4d449e5af0f2661daf7a0e5",
@@ -928,7 +928,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "d8c73ef1-27c3-43e2-b9cb-e33543a2caf7",
-        "highest_tier_mode": "cpvp_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "e81c963d-8608-463b-bc58-65619d71c68c": {
         "uuid": "e81c963d8608463bbc5865619d71c68c",
@@ -966,7 +966,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "ab681ef9-9f5f-49a1-8ac6-16b6c5047ead",
-        "highest_tier_mode": "smp_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "cdeb1a06-404d-474f-87ff-4a6c10aa9d64": {
         "uuid": "cdeb1a06404d474f87ff4a6c10aa9d64",
@@ -1004,7 +1004,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "d155e4de-fed3-4c04-be02-ce560b0954df",
-        "highest_tier_mode": "cpvp_tier"
+        "highest_tier_mode": "mace_tier"
     },
     "f40e711b-964f-40f2-a8b5-6f400bcc3f7c": {
         "uuid": "f40e711b964f40f2a8b56f400bcc3f7c",
@@ -1137,7 +1137,7 @@
         "combat_tier": "Combat Cadet",
         "combat_tier_korean": "\uace8\ub4dc",
         "uuid_formatted": "bd71e758-b327-488d-acb4-38d3bed86b52",
-        "highest_tier_mode": "npot_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "d3bd77ab-4fd7-4e14-b70b-a74383a501d7": {
         "uuid": "d3bd77ab4fd74e14b70ba74383a501d7",
@@ -1270,7 +1270,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "2b386eda-841d-4237-8ae4-179ce008d038",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "2b5a57ec-0519-4aaf-9a8f-6b8f14cc07bd": {
         "uuid": "2b5a57ec05194aaf9a8f6b8f14cc07bd",
@@ -1289,7 +1289,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "2b5a57ec-0519-4aaf-9a8f-6b8f14cc07bd",
-        "highest_tier_mode": "cpvp_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "2e3ddd3b-32e4-436b-a8d4-7253d9182e1c": {
         "uuid": "2e3ddd3b32e4436ba8d47253d9182e1c",
@@ -1327,7 +1327,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "49adca73-f244-4781-8f8e-0b9cdb60dde3",
-        "highest_tier_mode": "pot_tier"
+        "highest_tier_mode": "npot_tier"
     },
     "63dac23b-349e-401e-9f7f-2f7fc80e07f6": {
         "uuid": "63dac23b349e401e9f7f2f7fc80e07f6",
@@ -1384,7 +1384,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "d34d0d8c-fbc4-494a-bf0a-42d0c259e67b",
-        "highest_tier_mode": "uhc_tier"
+        "highest_tier_mode": "cpvp_tier"
     },
     "4c9c95af-cec3-4a3e-9e8a-1bc86f04e047": {
         "uuid": "4c9c95afcec34a3e9e8a1bc86f04e047",
@@ -1536,7 +1536,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "209583c6-9310-4c50-8364-cbe6628f05eb",
-        "highest_tier_mode": "smp_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "5c1b2f7e-5c2b-495a-adce-7df1fa1133b0": {
         "uuid": "5c1b2f7e5c2b495aadce7df1fa1133b0",
@@ -1650,7 +1650,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "7acc990d-8f10-44cf-9d98-50481b80b5ee",
-        "highest_tier_mode": "pot_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "96353394-1682-48bb-8114-3a83a44d6577": {
         "uuid": "96353394168248bb81143a83a44d6577",
@@ -1840,7 +1840,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "216340cd-20fd-468c-bd5a-3de6c55e8bcc",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "31c843bd-59bd-45c5-b101-c5699d0280bd": {
         "uuid": "31c843bd59bd45c5b101c5699d0280bd",
@@ -1859,7 +1859,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "31c843bd-59bd-45c5-b101-c5699d0280bd",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "d42a4c1a-734f-4b3f-bfa6-6927e10d6e10": {
         "uuid": "d42a4c1a734f4b3fbfa66927e10d6e10",
@@ -1897,7 +1897,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "49adf711-5c42-4fc6-96e7-504bf8d8e82c",
-        "highest_tier_mode": "mace_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "0723dcc6-806d-4378-906c-b16bcd59db6d": {
         "uuid": "0723dcc6806d4378906cb16bcd59db6d",
@@ -2087,7 +2087,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "8a107cb6-62f8-45c2-a02d-192a442629d6",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "807144cf-708f-4d08-9109-a9cc679979c2": {
         "uuid": "807144cf708f4d089109a9cc679979c2",
@@ -2163,7 +2163,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "9e0db419-f754-42f7-90ea-267b68ccfdcb",
-        "highest_tier_mode": "cpvp_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "167882f5-5160-4393-8c32-9a890b130062": {
         "uuid": "167882f5516043938c329a890b130062",
@@ -2201,7 +2201,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "ca4d70b3-817e-49e9-91eb-c3abb7d91980",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "bd910a96-cd29-4603-9b56-268be405fde2": {
         "uuid": "bd910a96cd2946039b56268be405fde2",
@@ -2904,7 +2904,7 @@
         "combat_tier": "Combat Novice",
         "combat_tier_korean": "\uc2e4\ubc84",
         "uuid_formatted": "336d15b5-0142-4930-928f-e571857f5a24",
-        "highest_tier_mode": "cpvp_tier"
+        "highest_tier_mode": "uhc_tier"
     },
     "2cdbfa30-3c04-4ecb-99b8-fc4f01e3d3d0": {
         "uuid": "2cdbfa303c044ecb99b8fc4f01e3d3d0",
@@ -3607,7 +3607,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "4604ac85-80aa-496b-a612-9325ea8577a5",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "99bbbc70-8882-4b3d-8215-cf56eeaa3ab0": {
         "uuid": "99bbbc7088824b3d8215cf56eeaa3ab0",
@@ -3930,7 +3930,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "0afb7137-9eca-451e-b5ff-1b61e6079018",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "uhc_tier"
     },
     "3b82067b-5975-4919-8cdf-2db44089a7ae": {
         "uuid": "3b82067b597549198cdf2db44089a7ae",
@@ -4082,7 +4082,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "7f31d33e-4ccb-4c1a-bb15-2df551e789ee",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "983ef470-2bbf-4549-9f98-57a406f0198f": {
         "uuid": "983ef4702bbf45499f9857a406f0198f",
@@ -4272,7 +4272,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "17d784a6-80bd-492f-8682-2426a680dba0",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "6222ad5f-3415-4d3e-afba-6a6b20bc57eb": {
         "uuid": "6222ad5f34154d3eafba6a6b20bc57eb",
@@ -4310,7 +4310,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "647b0597-c425-46ce-846a-e733c1d96363",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "b2ee34cf-e5e2-49cb-9a9d-5c4f5d8bc9b4": {
         "uuid": "b2ee34cfe5e249cb9a9d5c4f5d8bc9b4",
@@ -4348,7 +4348,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "e6c703be-ce03-476b-8568-31c72c752b04",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "132ee6d2-2b25-49b1-880f-4da4c8503c39": {
         "uuid": "132ee6d22b2549b1880f4da4c8503c39",
@@ -4899,7 +4899,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "bb80fda6-302a-49ef-a9ff-c686e38324df",
-        "highest_tier_mode": "uhc_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "0456ce07-f023-4b43-9bb1-9e2c46f42cfe": {
         "uuid": "0456ce07f0234b439bb19e2c46f42cfe",
@@ -5070,7 +5070,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "5612ac05-a7ec-4700-9e51-8c1925c8dd55",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "ff3595bf-c724-49f4-ac65-d72a4b84fed2": {
         "uuid": "ff3595bfc72449f4ac65d72a4b84fed2",
@@ -5222,7 +5222,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "81293e5a-7342-4d2e-a487-f5e21d0e14df",
-        "highest_tier_mode": "pot_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "35752f23-af2c-45f9-9cd2-7fcde9fbff8f": {
         "uuid": "35752f23af2c45f99cd27fcde9fbff8f",
@@ -6115,7 +6115,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "1cf38981-7481-421b-a029-97658bcafa65",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "uhc_tier"
     },
     "e8cb2033-b923-43ba-90d2-eb5f26861600": {
         "uuid": "e8cb2033b92343ba90d2eb5f26861600",
@@ -6400,7 +6400,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "230f20a7-0175-429d-acd4-d81216e1e0db",
-        "highest_tier_mode": "cpvp_tier"
+        "highest_tier_mode": "mace_tier"
     },
     "315983e9-d571-4d76-a5a4-28a4a69beb53": {
         "uuid": "315983e9d5714d76a5a428a4a69beb53",
@@ -6609,7 +6609,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "2627cf9a-35d9-4b47-a762-2590f885799f",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "bddd706e-f167-4490-b591-fcc81d1ea19a": {
         "uuid": "bddd706ef1674490b591fcc81d1ea19a",
@@ -6647,7 +6647,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "4308cd22-935e-493f-9c6f-36693c56ad68",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "5820d6bb-f3f2-478d-b919-7836bb177c6e": {
         "uuid": "5820d6bbf3f2478db9197836bb177c6e",
@@ -6685,7 +6685,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "58a69cbe-bb71-426e-b3e5-f466b64de4e2",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "pot_tier"
     },
     "2e1411b3-44a7-4f81-ae69-31bfbb5c4bf9": {
         "uuid": "2e1411b344a74f81ae6931bfbb5c4bf9",
@@ -7027,7 +7027,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "99ce7c5d-66b1-4ed9-b5a1-55e57198c038",
-        "highest_tier_mode": "mace_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "d79ad2ce-d77a-42f8-8f98-a049c1ed5fca": {
         "uuid": "d79ad2ced77a42f88f98a049c1ed5fca",
@@ -7426,7 +7426,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "731c06d1-9e2d-4080-a3af-5e9031f91924",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "cccee44c-d84e-4030-a569-95774b6befcb": {
         "uuid": "cccee44cd84e4030a56995774b6befcb",
@@ -7635,7 +7635,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "3bfb8b4f-300e-4f7e-8d3e-72fc48002ada",
-        "highest_tier_mode": "mace_tier"
+        "highest_tier_mode": "cpvp_tier"
     },
     "71f31036-41e4-441d-a8f5-9ece4fecf8bc": {
         "uuid": "71f3103641e4441da8f59ece4fecf8bc",
@@ -8794,7 +8794,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "07cfa160-e6f4-4624-bc50-a3a8ae5295b0",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "cpvp_tier"
     },
     "b1ba2ea6-a87a-464c-8859-9cfcaace8139": {
         "uuid": "b1ba2ea6a87a464c88599cfcaace8139",
@@ -9212,7 +9212,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "cf7fa433-1d78-44cd-9fd0-fab00c2aeff6",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "c507d5ea-5d85-421a-844e-edbf6dba1b19": {
         "uuid": "c507d5ea5d85421a844eedbf6dba1b19",
@@ -9478,7 +9478,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "5df0d1ac-4c15-47bc-8892-5d82d967bfb9",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "sword_tier"
     },
     "940aa57e-db38-4006-8ebc-b30f6a475a68": {
         "uuid": "940aa57edb3840068ebcb30f6a475a68",
@@ -9630,7 +9630,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "4f23411a-e716-42ae-8b86-39c4e0c23c59",
-        "highest_tier_mode": "pot_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "0fd3f8d3-0d4f-4ec3-bdb6-b442c5c16a0c": {
         "uuid": "0fd3f8d30d4f4ec3bdb6b442c5c16a0c",
@@ -9687,7 +9687,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "4f723c07-e1ab-4632-a1c7-2e672ab77d52",
-        "highest_tier_mode": "uhc_tier"
+        "highest_tier_mode": "mace_tier"
     },
     "c3191083-5c6e-45c7-8b93-521bf431dd9f": {
         "uuid": "c31910835c6e45c78b93521bf431dd9f",
@@ -9763,7 +9763,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "819d13d9-dce9-4305-9baa-9ff995c74bc7",
-        "highest_tier_mode": "pot_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "b3ddbcd7-390d-4612-b295-acfc1dc9ae7c": {
         "uuid": "b3ddbcd7390d4612b295acfc1dc9ae7c",
@@ -9782,7 +9782,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "b3ddbcd7-390d-4612-b295-acfc1dc9ae7c",
-        "highest_tier_mode": "axe_tier"
+        "highest_tier_mode": "mace_tier"
     },
     "3c06ad80-f016-43be-8ffa-007f62bfa459": {
         "uuid": "3c06ad80f01643be8ffa007f62bfa459",
@@ -9801,7 +9801,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "3c06ad80-f016-43be-8ffa-007f62bfa459",
-        "highest_tier_mode": "uhc_tier"
+        "highest_tier_mode": "smp_tier"
     },
     "e0c977ae-aa5f-4ecc-9f51-a129886e5abd": {
         "uuid": "e0c977aeaa5f4ecc9f51a129886e5abd",
@@ -9858,7 +9858,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "12cd5333-86d0-44f9-8c17-ff9bf9aba35d",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "uhc_tier"
     },
     "035664b0-05ef-4164-a65e-5f11c1f8b530": {
         "uuid": "035664b005ef4164a65e5f11c1f8b530",
@@ -10352,7 +10352,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "dd08811f-01e6-4efd-bec4-bc501d596277",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "cpvp_tier"
     },
     "7a057855-0008-4670-826e-4db26be8fcc5": {
         "uuid": "7a05785500084670826e4db26be8fcc5",
@@ -10409,7 +10409,7 @@
         "combat_tier": "Rookie",
         "combat_tier_korean": "\ube0c\ub860\uc988",
         "uuid_formatted": "ff8fd75d-5063-4872-b557-c579bff4a72e",
-        "highest_tier_mode": "sword_tier"
+        "highest_tier_mode": "axe_tier"
     },
     "b515284d-1252-44d5-8cea-780ed25977cd": {
         "uuid": "b515284d125244d58cea780ed25977cd",
